@@ -52,16 +52,20 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
 
 
 
-  ### 🎓Education  
-- **Diploma:** Ranchhodlal Chhotalal Institute of Technology (RCTI), Ahmedabad 
+ ## 🎓 Education  
+- **Diploma:** Ranchhodlal Chhotalal Institute of Technology (RCTI), Ahmedabad  
 - **College:** Shantilal Shah Engineering College (SSEC), Bhavnagar  
-- **University:** Gujarat Technological University (GTU) 
+- **University:** Gujarat Technological University (GTU)  
 
- ### 🌱Currently Learning  
-- Advanced React concepts  
-- WebSockets with Socket.io  
-- design best practices
-- real-time projects
+## 🌱 Currently Learning  
+- 🔹 **Advanced React Concepts**  
+- 🔹 **WebSockets with Socket.io**  
+- 🔹 **Design Best Practices**  
+
+## 🚀 Real-Time Project Outlines  
+- 📌 **Live Chat App** using **Socket.io & React**  
+- 📌 **Interactive UI Components** following **best design principles**  
+
 
  
 
