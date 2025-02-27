@@ -40,6 +40,16 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
 
   [![GitHub Stars](https://img.shields.io/github/stars/kavarsunny/kavarsunny?style=for-the-badge)](https://github.com/kavarsunny/kavarsunny/stargazers)
 
+  ## 📊 My GitHub Stats  
+
+![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavarsunny&show_icons=true&theme=dark&count_private=true)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kavarsunny&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavarsunny&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 💡 I love coding, exploring new technologies, and improving my skills every day.  
 
   
