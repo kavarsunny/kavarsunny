@@ -12,7 +12,7 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
    MongoDB  
 - **Real-Time:**
   Socket.io
-  -**Tool:**
+- **Tool:**
   postman,vs code,Git
 
  🌱 Currently Learning  
