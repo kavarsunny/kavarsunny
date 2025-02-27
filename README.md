@@ -62,12 +62,7 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
 - 🔹 **WebSockets with Socket.io**  
 - 🔹 **Design Best Practices**  
 
-## 🚀 Real-Time Project Outlines  
-- 📌 **Live Chat App** using **Socket.io & React**  
-- 📌 **Interactive UI Components** following **best design principles**  
 
-
- 
 
   ## 📊 My GitHub Stats  
 
