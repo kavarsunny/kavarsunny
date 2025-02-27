@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Sunny (kavarsunny)  
 
 ### 🚀 MERN Stack Developer 
-![Badge Name](https://img.shields.io/badge/Text-Color?style=for-the-badge)
+[![GitHub Stars](https://img.shields.io/github/stars/kavarsunny/kavarsunny?style=for-the-badge)](https://github.com/kavarsunny/kavarsunny/stargazers)
+
 
 
 I'm a **MERN Stack Developer** passionate about building web applications. I have knowledge of:  
