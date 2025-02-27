@@ -68,7 +68,6 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
   ## 📊 My GitHub Stats  
 
 <p align="center">
-![kavarsunny's Stats](https://github-readme-stats.vercel.app/api?username=kavarsunny&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavarsunny&layout=compact&theme=dark" alt="Top Languages" height="180px">
 </p>
 
