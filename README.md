@@ -13,7 +13,7 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
 - **Real-Time:**
   Socket.io
 - **Tool:**
-  postman,vs code,Git
+  postman,vs code,Git,Mockaroo
 
   ### 🎓 Education  
 - **Diploma:** Shantilal Shah Engineering College (SSEC), Bhavnagar  
