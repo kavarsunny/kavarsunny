@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Sunny (kavarsunny)  
 
 ### 🚀 MERN Stack Developer 
-[![Stars](https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme?style=for-the-badge)](https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers)
+![Badge Name](https://img.shields.io/badge/Text-Color?style=for-the-badge)
+
 
 I'm a **MERN Stack Developer** passionate about building web applications. I have knowledge of:  
 
