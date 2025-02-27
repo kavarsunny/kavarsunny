@@ -15,6 +15,11 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
 - **Tool:**
   postman,vs code,Git
 
+  ### 🎓 Education  
+- **Diploma:** Shantilal Shah Engineering College (SSEC), Bhavnagar  
+- **College:** Ranchhodlal Chhotalal Institute of Technology (RCTI), Ahmedabad  
+- **University:** Gujarat Technological University (GTU) 
+
  🌱 Currently Learning  
 - Advanced React concepts  
 - WebSockets with Socket.io  
