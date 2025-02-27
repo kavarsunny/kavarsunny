@@ -1,17 +1,32 @@
-<img src="https://raw.githubusercontent.com/kavarsunny/kavarsunny/main/assets/banner.png" alt="Sunny GitHub Banner" />
 
 
-# 👋 Hi, I'm Sunny (kavarsunny)  
+
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://your-banner-link-here.com" alt="Sunny's GitHub Banner">
+</p>
+
+<h1 align="center">👋 Hey there, I'm Sunny! (kavarsunny)</h1>
+<p align="center">
+  <b>A Passionate Full-Stack Developer | Tech Enthusiast | Open-Source Contributor</b>
+</p>
 
 ### 🚀 MERN Stack Developer 
 
-## 🌐 Connect with Me  
+## Let's Connect ☕  
 
+<p align="center">
+  <a href="https://x.com/Sunny_patel_51?t=H78rDAzewsX1P1UmPQciBQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/i_am_sunny_patel?igsh=amI0MTZ2b2g3MWdy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/sunny-kavar-763716353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sunny_patel_51?t=H78rDAzewsX1P1UmPQciBQ&s=09)  
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_sunny_patel?igsh=amI0MTZ2b2g3MWdy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-kavar-763716353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
@@ -63,9 +78,22 @@ I'm a **MERN Stack Developer** passionate about building web applications. I hav
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavarsunny&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Let's Connect ☕  
 
+<p align="center">
+  <a href="https://x.com/Sunny_patel_51?t=H78rDAzewsX1P1UmPQciBQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/i_am_sunny_patel?igsh=amI0MTZ2b2g3MWdy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/sunny-kavar-763716353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 💡 I love coding, exploring new technologies, and improving my skills every day.  
+
 
   
 
